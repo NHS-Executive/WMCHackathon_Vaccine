@@ -1,0 +1,545 @@
+week_end,uptake,denom,vacc,Group,Region
+06/04/2025,21.20526241335408,21207,4497,Residents in a care home for older adults,All Wales
+13/04/2025,42.26393629124004,21096,8916,Residents in a care home for older adults,All Wales
+20/04/2025,48.13861480528147,20979,10099,Residents in a care home for older adults,All Wales
+27/04/2025,49.978453435480006,20885,10438,Residents in a care home for older adults,All Wales
+04/05/2025,51.506981222917666,20770,10698,Residents in a care home for older adults,All Wales
+11/05/2025,52.82078575575769,20668,10917,Residents in a care home for older adults,All Wales
+18/05/2025,53.896293413756204,20558,11080,Residents in a care home for older adults,All Wales
+25/05/2025,56.49112512835558,20451,11553,Residents in a care home for older adults,All Wales
+01/06/2025,57.50429869810857,20355,11705,Residents in a care home for older adults,All Wales
+08/06/2025,59.925925925925924,20250,12135,Residents in a care home for older adults,All Wales
+15/06/2025,60.891138235585984,20154,12272,Residents in a care home for older adults,All Wales
+22/06/2025,62.18252582206477,20041,12462,Residents in a care home for older adults,All Wales
+29/06/2025,63.14152410575428,19933,12586,Residents in a care home for older adults,All Wales
+06/07/2025,63.40959483975005,19844,12583,Residents in a care home for older adults,All Wales
+13/07/2025,63.387562718564695,19731,12507,Residents in a care home for older adults,All Wales
+20/07/2025,63.34726327591479,19622,12430,Residents in a care home for older adults,All Wales
+27/07/2025,63.308247581016744,19533,12366,Residents in a care home for older adults,All Wales
+06/04/2025,5.281327599781963,379753,20056,Adults aged 75 years and over,All Wales
+13/04/2025,10.945924213223797,379301,41518,Adults aged 75 years and over,All Wales
+20/04/2025,15.399132658851974,378859,58341,Adults aged 75 years and over,All Wales
+27/04/2025,21.49984936495436,378398,81355,Adults aged 75 years and over,All Wales
+04/05/2025,28.85595832440398,377967,109066,Adults aged 75 years and over,All Wales
+11/05/2025,34.31076267033942,377555,129542,Adults aged 75 years and over,All Wales
+18/05/2025,40.27626404457138,377103,151883,Adults aged 75 years and over,All Wales
+25/05/2025,44.62997528123896,376637,168093,Adults aged 75 years and over,All Wales
+01/06/2025,47.95205830832494,376207,180399,Adults aged 75 years and over,All Wales
+08/06/2025,50.18255167862389,375784,188578,Adults aged 75 years and over,All Wales
+15/06/2025,51.95741483766805,375342,195018,Adults aged 75 years and over,All Wales
+22/06/2025,53.529692630657976,374891,200678,Adults aged 75 years and over,All Wales
+29/06/2025,54.80508868344736,374478,205233,Adults aged 75 years and over,All Wales
+06/07/2025,55.122035982570104,374070,206195,Adults aged 75 years and over,All Wales
+13/07/2025,55.149416304923804,373654,206068,Adults aged 75 years and over,All Wales
+20/07/2025,55.17787387271529,373242,205947,Adults aged 75 years and over,All Wales
+27/07/2025,55.192786820177375,372873,205799,Adults aged 75 years and over,All Wales
+06/04/2025,4.062965548135724,95989,3900,Individuals aged 6 months and over who are immunosuppressed,All Wales
+13/04/2025,7.713400965478412,95911,7398,Individuals aged 6 months and over who are immunosuppressed,All Wales
+20/04/2025,10.727293599524113,95821,10279,Individuals aged 6 months and over who are immunosuppressed,All Wales
+27/04/2025,14.33407516534495,95709,13719,Individuals aged 6 months and over who are immunosuppressed,All Wales
+04/05/2025,17.189951262367437,95614,16436,Individuals aged 6 months and over who are immunosuppressed,All Wales
+11/05/2025,19.45750149181855,95521,18586,Individuals aged 6 months and over who are immunosuppressed,All Wales
+18/05/2025,22.128038558256495,95440,21119,Individuals aged 6 months and over who are immunosuppressed,All Wales
+25/05/2025,25.067648354414445,95346,23901,Individuals aged 6 months and over who are immunosuppressed,All Wales
+01/06/2025,27.815626213745105,95263,26498,Individuals aged 6 months and over who are immunosuppressed,All Wales
+08/06/2025,30.89642710817426,95189,29410,Individuals aged 6 months and over who are immunosuppressed,All Wales
+15/06/2025,33.78419596747899,95077,32121,Individuals aged 6 months and over who are immunosuppressed,All Wales
+22/06/2025,35.77061158,94983,33976,Individuals aged 6 months and over who are immunosuppressed,All Wales
+29/06/2025,37.40425038721302,94909,35500,Individuals aged 6 months and over who are immunosuppressed,All Wales
+06/07/2025,37.91510677563934,94825,35953,Individuals aged 6 months and over who are immunosuppressed,All Wales
+13/07/2025,37.94879915544998,94725,35947,Individuals aged 6 months and over who are immunosuppressed,All Wales
+20/07/2025,37.99541434654438,94643,35960,Individuals aged 6 months and over who are immunosuppressed,All Wales
+27/07/2025,38.02288203696654,94572,35959,Individuals aged 6 months and over who are immunosuppressed,All Wales
+06/04/2025,4.862131501264181,453258,22038,All identified as potentially eligible,All Wales
+13/04/2025,10.23557527,452764,46343,All identified as potentially eligible,All Wales
+20/04/2025,14.345887071632148,452269,64882,All identified as potentially eligible,All Wales
+27/04/2025,19.90871198454036,451757,89939,All identified as potentially eligible,All Wales
+04/05/2025,26.413116701235616,451272,119195,All identified as potentially eligible,All Wales
+11/05/2025,31.254380905904792,450820,140901,All identified as potentially eligible,All Wales
+18/05/2025,36.57164683,450327,164692,All identified as potentially eligible,All Wales
+25/05/2025,40.602566867270326,449809,182634,All identified as potentially eligible,All Wales
+01/06/2025,43.745396035527584,449341,196566,All identified as potentially eligible,All Wales
+08/06/2025,46.11055912244198,448882,206982,All identified as potentially eligible,All Wales
+15/06/2025,48.09940542300607,448386,215671,All identified as potentially eligible,All Wales
+22/06/2025,49.707292894652234,447888,222633,All identified as potentially eligible,All Wales
+29/06/2025,51.03636323000246,447430,228352,All identified as potentially eligible,All Wales
+06/07/2025,51.38830162085976,446985,229698,All identified as potentially eligible,All Wales
+13/07/2025,51.41620885581254,446509,229578,All identified as potentially eligible,All Wales
+20/07/2025,51.44398909553958,446056,229469,All identified as potentially eligible,All Wales
+27/07/2025,51.45900557841875,445646,229325,All identified as potentially eligible,All Wales
+06/04/2025,20.889805539186803,3394,709,Residents in a care home for older adults,Aneurin Bevan UHB
+13/04/2025,44.263267121257044,3373,1493,Residents in a care home for older adults,Aneurin Bevan UHB
+20/04/2025,54.298507462686565,3350,1819,Residents in a care home for older adults,Aneurin Bevan UHB
+27/04/2025,57.001499250374806,3335,1901,Residents in a care home for older adults,Aneurin Bevan UHB
+04/05/2025,58.802177858439194,3306,1944,Residents in a care home for older adults,Aneurin Bevan UHB
+11/05/2025,61.24809741248097,3285,2012,Residents in a care home for older adults,Aneurin Bevan UHB
+18/05/2025,61.599754826846464,3263,2010,Residents in a care home for older adults,Aneurin Bevan UHB
+25/05/2025,62.172976300400116,3249,2020,Residents in a care home for older adults,Aneurin Bevan UHB
+01/06/2025,62.14042684812867,3233,2009,Residents in a care home for older adults,Aneurin Bevan UHB
+08/06/2025,64.44996892,3218,2074,Residents in a care home for older adults,Aneurin Bevan UHB
+15/06/2025,65.68841710896035,3203,2104,Residents in a care home for older adults,Aneurin Bevan UHB
+22/06/2025,67.43018512707876,3187,2149,Residents in a care home for older adults,Aneurin Bevan UHB
+29/06/2025,67.57269279393174,3164,2138,Residents in a care home for older adults,Aneurin Bevan UHB
+06/07/2025,67.73477157360406,3152,2135,Residents in a care home for older adults,Aneurin Bevan UHB
+13/07/2025,67.69770408163265,3136,2123,Residents in a care home for older adults,Aneurin Bevan UHB
+20/07/2025,67.56496631376324,3117,2106,Residents in a care home for older adults,Aneurin Bevan UHB
+27/07/2025,67.54838709677419,3100,2094,Residents in a care home for older adults,Aneurin Bevan UHB
+06/04/2025,8.032411484939228,68124,5472,Adults aged 75 years and over,Aneurin Bevan UHB
+13/04/2025,15.217646885930106,68046,10355,Adults aged 75 years and over,Aneurin Bevan UHB
+20/04/2025,18.718182620722125,67966,12722,Adults aged 75 years and over,Aneurin Bevan UHB
+27/04/2025,25.388501819145958,67889,17236,Adults aged 75 years and over,Aneurin Bevan UHB
+04/05/2025,32.26053865895749,67798,21872,Adults aged 75 years and over,Aneurin Bevan UHB
+11/05/2025,39.20888272033311,67727,26555,Adults aged 75 years and over,Aneurin Bevan UHB
+18/05/2025,45.85458146719288,67653,31022,Adults aged 75 years and over,Aneurin Bevan UHB
+25/05/2025,49.59081289864295,67573,33510,Adults aged 75 years and over,Aneurin Bevan UHB
+01/06/2025,53.02711512816713,67490,35788,Adults aged 75 years and over,Aneurin Bevan UHB
+08/06/2025,54.81774889848236,67407,36951,Adults aged 75 years and over,Aneurin Bevan UHB
+15/06/2025,56.49564778,67322,38034,Adults aged 75 years and over,Aneurin Bevan UHB
+22/06/2025,57.57431558285128,67247,38717,Adults aged 75 years and over,Aneurin Bevan UHB
+29/06/2025,58.65195640521708,67164,39393,Adults aged 75 years and over,Aneurin Bevan UHB
+06/07/2025,58.78301830540814,67084,39434,Adults aged 75 years and over,Aneurin Bevan UHB
+13/07/2025,58.798776393344774,67015,39404,Adults aged 75 years and over,Aneurin Bevan UHB
+20/07/2025,58.80068122740446,66938,39360,Adults aged 75 years and over,Aneurin Bevan UHB
+27/07/2025,58.80875117764053,66871,39326,Adults aged 75 years and over,Aneurin Bevan UHB
+06/04/2025,7.016224347,18614,1306,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+13/04/2025,11.722951172295117,18596,2180,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+20/04/2025,14.60631828211614,18581,2714,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+27/04/2025,21.641710653883443,18566,4018,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+04/05/2025,25.41376894,18549,4714,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+11/05/2025,28.32235776746195,18526,5247,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+18/05/2025,31.055531547104582,18512,5749,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+25/05/2025,33.40721120060544,18499,6180,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+01/06/2025,35.098442232799655,18488,6489,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+08/06/2025,37.02300405953992,18475,6840,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+15/06/2025,38.175803915188986,18441,7040,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+22/06/2025,39.27485888,18424,7236,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+29/06/2025,40.03259098316133,18410,7370,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+06/07/2025,40.113086500299026,18393,7378,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+13/07/2025,40.12846333895814,18371,7372,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+20/07/2025,40.16013944114603,18359,7373,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+27/07/2025,40.180906713164774,18352,7374,Individuals aged 6 months and over who are immunosuppressed,Aneurin Bevan UHB
+06/04/2025,7.586516091508337,82528,6261,All identified as potentially eligible,Aneurin Bevan UHB
+13/04/2025,14.31309284102763,82442,11800,All identified as potentially eligible,Aneurin Bevan UHB
+20/04/2025,17.594987432151836,82353,14490,All identified as potentially eligible,Aneurin Bevan UHB
+27/04/2025,24.04550924,82269,19782,All identified as potentially eligible,Aneurin Bevan UHB
+04/05/2025,30.32482626845327,82167,24917,All identified as potentially eligible,Aneurin Bevan UHB
+11/05/2025,36.46297785249617,82086,29931,All identified as potentially eligible,Aneurin Bevan UHB
+18/05/2025,42.33573972001366,82004,34717,All identified as potentially eligible,Aneurin Bevan UHB
+25/05/2025,45.79203086088188,81916,37511,All identified as potentially eligible,Aneurin Bevan UHB
+01/06/2025,48.87571795,81830,39995,All identified as potentially eligible,Aneurin Bevan UHB
+08/06/2025,50.73034670059455,81742,41468,All identified as potentially eligible,Aneurin Bevan UHB
+15/06/2025,52.32612263896714,81638,42718,All identified as potentially eligible,Aneurin Bevan UHB
+22/06/2025,53.435676099857766,81556,43580,All identified as potentially eligible,Aneurin Bevan UHB
+29/06/2025,54.46745307916089,81467,44373,All identified as potentially eligible,Aneurin Bevan UHB
+06/07/2025,54.58198171630787,81384,44421,All identified as potentially eligible,Aneurin Bevan UHB
+13/07/2025,54.59845754560326,81299,44388,All identified as potentially eligible,Aneurin Bevan UHB
+20/07/2025,54.60556287,81217,44349,All identified as potentially eligible,Aneurin Bevan UHB
+27/07/2025,54.61390579942326,81146,44317,All identified as potentially eligible,Aneurin Bevan UHB
+06/04/2025,24.60291197882197,6044,1487,Residents in a care home for older adults,Betsi Cadwaladr UHB
+13/04/2025,48.99518352,6021,2950,Residents in a care home for older adults,Betsi Cadwaladr UHB
+20/04/2025,50.26737967914438,5984,3008,Residents in a care home for older adults,Betsi Cadwaladr UHB
+27/04/2025,50.63822640241854,5954,3015,Residents in a care home for older adults,Betsi Cadwaladr UHB
+04/05/2025,51.04588394062078,5928,3026,Residents in a care home for older adults,Betsi Cadwaladr UHB
+11/05/2025,51.186842997626314,5898,3019,Residents in a care home for older adults,Betsi Cadwaladr UHB
+18/05/2025,51.74884831939942,5861,3033,Residents in a care home for older adults,Betsi Cadwaladr UHB
+25/05/2025,56.22324944358843,5841,3284,Residents in a care home for older adults,Betsi Cadwaladr UHB
+01/06/2025,57.84583620096352,5812,3362,Residents in a care home for older adults,Betsi Cadwaladr UHB
+08/06/2025,59.60906417574814,5781,3446,Residents in a care home for older adults,Betsi Cadwaladr UHB
+15/06/2025,60.69876586128976,5753,3492,Residents in a care home for older adults,Betsi Cadwaladr UHB
+22/06/2025,61.377140859839216,5722,3512,Residents in a care home for older adults,Betsi Cadwaladr UHB
+29/06/2025,62.76128578956614,5693,3573,Residents in a care home for older adults,Betsi Cadwaladr UHB
+06/07/2025,62.96100229,5667,3568,Residents in a care home for older adults,Betsi Cadwaladr UHB
+13/07/2025,62.91437688353129,5641,3549,Residents in a care home for older adults,Betsi Cadwaladr UHB
+20/07/2025,62.87190450739355,5613,3529,Residents in a care home for older adults,Betsi Cadwaladr UHB
+27/07/2025,62.84025787965616,5584,3509,Residents in a care home for older adults,Betsi Cadwaladr UHB
+06/04/2025,1.636062629169958,92417,1512,Adults aged 75 years and over,Betsi Cadwaladr UHB
+13/04/2025,3.4776767819030803,92303,3210,Adults aged 75 years and over,Betsi Cadwaladr UHB
+20/04/2025,8.895855253880615,92189,8201,Adults aged 75 years and over,Betsi Cadwaladr UHB
+27/04/2025,14.157859865970087,92069,13035,Adults aged 75 years and over,Betsi Cadwaladr UHB
+04/05/2025,21.78266257908812,91986,20037,Adults aged 75 years and over,Betsi Cadwaladr UHB
+11/05/2025,27.016260693528377,91878,24822,Adults aged 75 years and over,Betsi Cadwaladr UHB
+18/05/2025,32.88323634,91758,30173,Adults aged 75 years and over,Betsi Cadwaladr UHB
+25/05/2025,39.13223726557642,91661,35869,Adults aged 75 years and over,Betsi Cadwaladr UHB
+01/06/2025,43.19589317896346,91555,39548,Adults aged 75 years and over,Betsi Cadwaladr UHB
+08/06/2025,47.13207959763831,91460,43107,Adults aged 75 years and over,Betsi Cadwaladr UHB
+15/06/2025,50.17787751080947,91355,45840,Adults aged 75 years and over,Betsi Cadwaladr UHB
+22/06/2025,53.76791899,91244,49060,Adults aged 75 years and over,Betsi Cadwaladr UHB
+29/06/2025,56.97233010773923,91146,51928,Adults aged 75 years and over,Betsi Cadwaladr UHB
+06/07/2025,57.80589327095208,91053,52634,Adults aged 75 years and over,Betsi Cadwaladr UHB
+13/07/2025,57.82686134,90956,52597,Adults aged 75 years and over,Betsi Cadwaladr UHB
+20/07/2025,57.876260069551435,90868,52591,Adults aged 75 years and over,Betsi Cadwaladr UHB
+27/07/2025,57.885344143826565,90776,52546,Adults aged 75 years and over,Betsi Cadwaladr UHB
+06/04/2025,0.16299219353178349,23314,38,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+13/04/2025,0.40797045435025336,23286,95,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+20/04/2025,1.9305185312580617,23258,449,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+27/04/2025,3.906115417743325,23220,907,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+04/05/2025,6.194232510021984,23199,1437,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+11/05/2025,7.7387628332326805,23182,1794,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+18/05/2025,9.911932308754965,23164,2296,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+25/05/2025,12.521611341632088,23136,2897,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+01/06/2025,14.850242382271468,23104,3431,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+08/06/2025,21.031883555709584,23084,4855,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+15/06/2025,27.019993928091253,23057,6230,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+22/06/2025,31.05350008685079,23028,7151,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+29/06/2025,35.22124663131357,23006,8103,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+06/07/2025,36.97080450767959,22983,8497,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+13/07/2025,37.02025702461337,22955,8498,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+20/07/2025,37.12553961540139,22933,8514,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+27/07/2025,37.13761788333915,22904,8506,Individuals aged 6 months and over who are immunosuppressed,Betsi Cadwaladr UHB
+06/04/2025,1.5057830799447152,109976,1656,All identified as potentially eligible,Betsi Cadwaladr UHB
+13/04/2025,3.2143539885845374,109851,3531,All identified as potentially eligible,Betsi Cadwaladr UHB
+20/04/2025,7.912869121399928,109720,8682,All identified as potentially eligible,Betsi Cadwaladr UHB
+27/04/2025,12.523384955146517,109579,13723,All identified as potentially eligible,Betsi Cadwaladr UHB
+04/05/2025,19.119863357781576,109483,20933,All identified as potentially eligible,Betsi Cadwaladr UHB
+11/05/2025,23.67759337996617,109365,25895,All identified as potentially eligible,Betsi Cadwaladr UHB
+18/05/2025,28.764452256062395,109239,31422,All identified as potentially eligible,Betsi Cadwaladr UHB
+25/05/2025,34.27872367721716,109126,37407,All identified as potentially eligible,Betsi Cadwaladr UHB
+01/06/2025,37.89218744266265,109004,41304,All identified as potentially eligible,Betsi Cadwaladr UHB
+08/06/2025,42.10086502966078,108898,45847,All identified as potentially eligible,Betsi Cadwaladr UHB
+15/06/2025,45.69230203526319,108782,49705,All identified as potentially eligible,Betsi Cadwaladr UHB
+22/06/2025,49.198855112878135,108657,53458,All identified as potentially eligible,Betsi Cadwaladr UHB
+29/06/2025,52.530817563708055,108542,57018,All identified as potentially eligible,Betsi Cadwaladr UHB
+06/07/2025,53.53295953373418,108436,58049,All identified as potentially eligible,Betsi Cadwaladr UHB
+13/07/2025,53.55975702073448,108322,58017,All identified as potentially eligible,Betsi Cadwaladr UHB
+20/07/2025,53.606542228793195,108220,58013,All identified as potentially eligible,Betsi Cadwaladr UHB
+27/07/2025,53.61576172416983,108110,57964,All identified as potentially eligible,Betsi Cadwaladr UHB
+06/04/2025,22.59301879555044,2607,589,Residents in a care home for older adults,CTM UHB
+13/04/2025,45.94594594594595,2590,1190,Residents in a care home for older adults,CTM UHB
+20/04/2025,50.33009708737865,2575,1296,Residents in a care home for older adults,CTM UHB
+27/04/2025,50.3515625,2560,1289,Residents in a care home for older adults,CTM UHB
+04/05/2025,50.50940438871473,2552,1289,Residents in a care home for older adults,CTM UHB
+11/05/2025,50.531705395825135,2539,1283,Residents in a care home for older adults,CTM UHB
+18/05/2025,50.81188118811881,2525,1283,Residents in a care home for older adults,CTM UHB
+25/05/2025,53.53293413173653,2505,1341,Residents in a care home for older adults,CTM UHB
+01/06/2025,53.62434921906287,2497,1339,Residents in a care home for older adults,CTM UHB
+08/06/2025,60.77170418006431,2488,1512,Residents in a care home for older adults,CTM UHB
+15/06/2025,62.02582728006457,2478,1537,Residents in a care home for older adults,CTM UHB
+22/06/2025,62.758620689655174,2465,1547,Residents in a care home for older adults,CTM UHB
+29/06/2025,63.024867509172445,2453,1546,Residents in a care home for older adults,CTM UHB
+06/07/2025,63.06748466257669,2445,1542,Residents in a care home for older adults,CTM UHB
+13/07/2025,63.06491372226787,2434,1535,Residents in a care home for older adults,CTM UHB
+20/07/2025,63.04888152444076,2414,1522,Residents in a care home for older adults,CTM UHB
+27/07/2025,62.973760932944614,2401,1512,Residents in a care home for older adults,CTM UHB
+06/04/2025,7.627683421855121,49517,3777,Adults aged 75 years and over,CTM UHB
+13/04/2025,15.005560610656152,49455,7421,Adults aged 75 years and over,CTM UHB
+20/04/2025,21.835449446165683,49383,10783,Adults aged 75 years and over,CTM UHB
+27/04/2025,29.403296770138482,49321,14502,Adults aged 75 years and over,CTM UHB
+04/05/2025,38.84840981510422,49271,19141,Adults aged 75 years and over,CTM UHB
+11/05/2025,44.76459472090708,49213,22030,Adults aged 75 years and over,CTM UHB
+18/05/2025,49.29700693836857,49147,24228,Adults aged 75 years and over,CTM UHB
+25/05/2025,52.115345424903204,49070,25573,Adults aged 75 years and over,CTM UHB
+01/06/2025,54.083943765430845,49009,26506,Adults aged 75 years and over,CTM UHB
+08/06/2025,54.96476355836993,48955,26908,Adults aged 75 years and over,CTM UHB
+15/06/2025,55.44509900180004,48888,27106,Adults aged 75 years and over,CTM UHB
+22/06/2025,56.12903225806451,48825,27405,Adults aged 75 years and over,CTM UHB
+29/06/2025,56.630780272736594,48765,27616,Adults aged 75 years and over,CTM UHB
+06/07/2025,56.75514770790991,48711,27646,Adults aged 75 years and over,CTM UHB
+13/07/2025,56.77069422472418,48673,27632,Adults aged 75 years and over,CTM UHB
+20/07/2025,56.78755837,48611,27605,Adults aged 75 years and over,CTM UHB
+27/07/2025,56.80395387149918,48560,27584,Adults aged 75 years and over,CTM UHB
+06/04/2025,12.458532989310726,13565,1690,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+13/04/2025,23.21533923303835,13560,3148,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+20/04/2025,26.36437486153164,13541,3570,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+27/04/2025,28.309557247394483,13529,3830,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+04/05/2025,30.42705943305455,13511,4111,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+11/05/2025,32.17539442,13501,4344,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+18/05/2025,34.00311410988359,13487,4586,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+25/05/2025,35.688311688311686,13475,4809,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+01/06/2025,36.45616641901931,13460,4907,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+08/06/2025,37.344737820751206,13445,5021,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+15/06/2025,37.809055704498064,13428,5077,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+22/06/2025,38.616370955717905,13414,5180,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+29/06/2025,38.88349876856482,13399,5210,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+06/07/2025,39.00926479378362,13384,5221,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+13/07/2025,38.99940173496859,13372,5215,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+20/07/2025,39.00868523510033,13356,5210,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+27/07/2025,39.018358935931055,13345,5207,Individuals aged 6 months and over who are immunosuppressed,CTM UHB
+06/04/2025,7.425231466062746,60052,4459,All identified as potentially eligible,CTM UHB
+13/04/2025,15.746482629859305,59988,9446,All identified as potentially eligible,CTM UHB
+20/04/2025,21.923982172367168,59907,13134,All identified as potentially eligible,CTM UHB
+27/04/2025,28.437024782339865,59841,17017,All identified as potentially eligible,CTM UHB
+04/05/2025,36.47647245780432,59781,21806,All identified as potentially eligible,CTM UHB
+11/05/2025,41.630664121370444,59718,24861,All identified as potentially eligible,CTM UHB
+18/05/2025,45.64339005784223,59645,27224,All identified as potentially eligible,CTM UHB
+25/05/2025,48.245466756212224,59560,28735,All identified as potentially eligible,CTM UHB
+01/06/2025,49.987393051049736,59491,29738,All identified as potentially eligible,CTM UHB
+08/06/2025,50.90269715477933,59433,30253,All identified as potentially eligible,CTM UHB
+15/06/2025,51.39410684502249,59357,30506,All identified as potentially eligible,CTM UHB
+22/06/2025,52.10592898709623,59285,30891,All identified as potentially eligible,CTM UHB
+29/06/2025,52.55070163292187,59219,31120,All identified as potentially eligible,CTM UHB
+06/07/2025,52.67259449590912,59156,31159,All identified as potentially eligible,CTM UHB
+13/07/2025,52.68393361641657,59111,31142,All identified as potentially eligible,CTM UHB
+20/07/2025,52.69718679606389,59043,31114,All identified as potentially eligible,CTM UHB
+27/07/2025,52.70662032720183,58985,31089,All identified as potentially eligible,CTM UHB
+06/04/2025,30.273814114924797,2593,785,Residents in a care home for older adults,Cardiff and Vale UHB
+13/04/2025,46.40776699029126,2575,1195,Residents in a care home for older adults,Cardiff and Vale UHB
+20/04/2025,53.20062451209993,2562,1363,Residents in a care home for older adults,Cardiff and Vale UHB
+27/04/2025,54.17156286721504,2553,1383,Residents in a care home for older adults,Cardiff and Vale UHB
+04/05/2025,54.24528301886793,2544,1380,Residents in a care home for older adults,Cardiff and Vale UHB
+11/05/2025,54.92902208201893,2536,1393,Residents in a care home for older adults,Cardiff and Vale UHB
+18/05/2025,54.96243575,2529,1390,Residents in a care home for older adults,Cardiff and Vale UHB
+25/05/2025,54.97215592680986,2514,1382,Residents in a care home for older adults,Cardiff and Vale UHB
+01/06/2025,56.39999999999999,2500,1410,Residents in a care home for older adults,Cardiff and Vale UHB
+08/06/2025,58.19935691318327,2488,1448,Residents in a care home for older adults,Cardiff and Vale UHB
+15/06/2025,59.256265157639454,2474,1466,Residents in a care home for older adults,Cardiff and Vale UHB
+22/06/2025,62.36297198538367,2463,1536,Residents in a care home for older adults,Cardiff and Vale UHB
+29/06/2025,65.02040816,2450,1593,Residents in a care home for older adults,Cardiff and Vale UHB
+06/07/2025,66.28289474,2432,1612,Residents in a care home for older adults,Cardiff and Vale UHB
+13/07/2025,66.34854771784232,2410,1599,Residents in a care home for older adults,Cardiff and Vale UHB
+20/07/2025,66.34695579649707,2398,1591,Residents in a care home for older adults,Cardiff and Vale UHB
+27/07/2025,66.30343671416597,2386,1582,Residents in a care home for older adults,Cardiff and Vale UHB
+06/04/2025,2.4410260726836555,47521,1160,Adults aged 75 years and over,Cardiff and Vale UHB
+13/04/2025,4.751069253945178,47463,2255,Adults aged 75 years and over,Cardiff and Vale UHB
+20/04/2025,6.274385742908363,47415,2975,Adults aged 75 years and over,Cardiff and Vale UHB
+27/04/2025,16.193673719329365,47358,7669,Adults aged 75 years and over,Cardiff and Vale UHB
+04/05/2025,26.714152857625972,47312,12639,Adults aged 75 years and over,Cardiff and Vale UHB
+11/05/2025,35.70128660910784,47256,16871,Adults aged 75 years and over,Cardiff and Vale UHB
+18/05/2025,45.475539736011356,47199,21464,Adults aged 75 years and over,Cardiff and Vale UHB
+25/05/2025,51.95943222,47131,24489,Adults aged 75 years and over,Cardiff and Vale UHB
+01/06/2025,56.004417824221576,47082,26368,Adults aged 75 years and over,Cardiff and Vale UHB
+08/06/2025,57.26099619464699,47039,26935,Adults aged 75 years and over,Cardiff and Vale UHB
+15/06/2025,58.33297858754417,46982,27406,Adults aged 75 years and over,Cardiff and Vale UHB
+22/06/2025,59.011572150118276,46923,27690,Adults aged 75 years and over,Cardiff and Vale UHB
+29/06/2025,59.55930974168639,46881,27922,Adults aged 75 years and over,Cardiff and Vale UHB
+06/07/2025,59.80737608644585,46827,28006,Adults aged 75 years and over,Cardiff and Vale UHB
+13/07/2025,59.89391735820002,46756,28004,Adults aged 75 years and over,Cardiff and Vale UHB
+20/07/2025,59.93447678,46701,27990,Adults aged 75 years and over,Cardiff and Vale UHB
+27/07/2025,59.97470687844297,46653,27980,Adults aged 75 years and over,Cardiff and Vale UHB
+06/04/2025,0.8226366924331608,14101,116,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+13/04/2025,1.7027314650585312,14095,240,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+20/04/2025,2.286119985800497,14085,322,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+27/04/2025,4.000568464435443,14073,563,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+04/05/2025,6.467449306296691,14055,909,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+11/05/2025,8.621303883,14035,1210,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+18/05/2025,12.35289922259468,14021,1732,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+25/05/2025,19.26454837558015,14005,2698,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+01/06/2025,27.915118605315804,13996,3907,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+08/06/2025,32.51840732003718,13989,4549,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+15/06/2025,36.382491775139464,13982,5087,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+22/06/2025,37.585046193511424,13963,5248,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+29/06/2025,38.449412439094296,13956,5366,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+06/07/2025,38.67775706295712,13946,5394,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+13/07/2025,38.78561688078662,13933,5404,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+20/07/2025,38.82462820604928,13919,5404,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+27/07/2025,38.91324660389564,13913,5414,Individuals aged 6 months and over who are immunosuppressed,Cardiff and Vale UHB
+06/04/2025,2.1669831795984806,58976,1278,All identified as potentially eligible,Cardiff and Vale UHB
+13/04/2025,4.207899784427886,58913,2479,All identified as potentially eligible,Cardiff and Vale UHB
+20/04/2025,5.533657276835774,58858,3257,All identified as potentially eligible,Cardiff and Vale UHB
+27/04/2025,13.730058845538965,58798,8073,All identified as potentially eligible,Cardiff and Vale UHB
+04/05/2025,22.500085117973512,58742,13217,All identified as potentially eligible,Cardiff and Vale UHB
+11/05/2025,29.96779305761464,58683,17586,All identified as potentially eligible,Cardiff and Vale UHB
+18/05/2025,38.390024222987954,58622,22505,All identified as potentially eligible,Cardiff and Vale UHB
+25/05/2025,44.64883514381363,58548,26141,All identified as potentially eligible,Cardiff and Vale UHB
+01/06/2025,49.362327760112144,58494,28874,All identified as potentially eligible,Cardiff and Vale UHB
+08/06/2025,51.35421835166903,58447,30015,All identified as potentially eligible,Cardiff and Vale UHB
+15/06/2025,53.06580344603158,58386,30983,All identified as potentially eligible,Cardiff and Vale UHB
+22/06/2025,53.86752173391176,58319,31415,All identified as potentially eligible,Cardiff and Vale UHB
+29/06/2025,54.49443986820428,58272,31755,All identified as potentially eligible,Cardiff and Vale UHB
+06/07/2025,54.746444032158315,58212,31869,All identified as potentially eligible,Cardiff and Vale UHB
+13/07/2025,54.83366016444765,58134,31877,All identified as potentially eligible,Cardiff and Vale UHB
+20/07/2025,54.87670478027277,58072,31868,All identified as potentially eligible,Cardiff and Vale UHB
+27/07/2025,54.91994001964874,58019,31864,All identified as potentially eligible,Cardiff and Vale UHB
+06/04/2025,12.145607280364018,2857,347,Residents in a care home for older adults,Hywel Dda UHB
+13/04/2025,25.070323488045005,2844,713,Residents in a care home for older adults,Hywel Dda UHB
+20/04/2025,30.109424638192728,2833,853,Residents in a care home for older adults,Hywel Dda UHB
+27/04/2025,33.53420772775612,2821,946,Residents in a care home for older adults,Hywel Dda UHB
+04/05/2025,37.05945176219295,2809,1041,Residents in a care home for older adults,Hywel Dda UHB
+11/05/2025,39.871152469577666,2794,1114,Residents in a care home for older adults,Hywel Dda UHB
+18/05/2025,42.16780698595607,2777,1171,Residents in a care home for older adults,Hywel Dda UHB
+25/05/2025,47.467438494934875,2764,1312,Residents in a care home for older adults,Hywel Dda UHB
+01/06/2025,49.85443959243086,2748,1370,Residents in a care home for older adults,Hywel Dda UHB
+08/06/2025,52.56598240469208,2728,1434,Residents in a care home for older adults,Hywel Dda UHB
+15/06/2025,53.036437246963565,2717,1441,Residents in a care home for older adults,Hywel Dda UHB
+22/06/2025,54.78841870824054,2694,1476,Residents in a care home for older adults,Hywel Dda UHB
+29/06/2025,54.75923852183651,2679,1467,Residents in a care home for older adults,Hywel Dda UHB
+06/07/2025,55.02625656414104,2666,1467,Residents in a care home for older adults,Hywel Dda UHB
+13/07/2025,54.922670690305544,2651,1456,Residents in a care home for older adults,Hywel Dda UHB
+20/07/2025,54.79348237968927,2639,1446,Residents in a care home for older adults,Hywel Dda UHB
+27/07/2025,54.73204104903079,2631,1440,Residents in a care home for older adults,Hywel Dda UHB
+06/04/2025,5.626824258585277,55502,3123,Adults aged 75 years and over,Hywel Dda UHB
+13/04/2025,11.554072336971227,55435,6405,Adults aged 75 years and over,Hywel Dda UHB
+20/04/2025,15.120982304080895,55380,8374,Adults aged 75 years and over,Hywel Dda UHB
+27/04/2025,18.432471524136684,55310,10195,Adults aged 75 years and over,Hywel Dda UHB
+04/05/2025,21.884333423839262,55245,12090,Adults aged 75 years and over,Hywel Dda UHB
+11/05/2025,24.559209930234665,55185,13553,Adults aged 75 years and over,Hywel Dda UHB
+18/05/2025,28.646844329953012,55123,15791,Adults aged 75 years and over,Hywel Dda UHB
+25/05/2025,31.05872096,55057,17100,Adults aged 75 years and over,Hywel Dda UHB
+01/06/2025,34.44187864792625,54997,18942,Adults aged 75 years and over,Hywel Dda UHB
+08/06/2025,36.38978915552966,54922,19986,Adults aged 75 years and over,Hywel Dda UHB
+15/06/2025,38.079096045197744,54870,20894,Adults aged 75 years and over,Hywel Dda UHB
+22/06/2025,39.33094864401212,54794,21551,Adults aged 75 years and over,Hywel Dda UHB
+29/06/2025,39.83848276114085,54731,21804,Adults aged 75 years and over,Hywel Dda UHB
+06/07/2025,39.950980392156865,54672,21842,Adults aged 75 years and over,Hywel Dda UHB
+13/07/2025,39.95531626561184,54606,21818,Adults aged 75 years and over,Hywel Dda UHB
+20/07/2025,39.95820118429978,54547,21796,Adults aged 75 years and over,Hywel Dda UHB
+27/07/2025,39.96073106,54496,21777,Adults aged 75 years and over,Hywel Dda UHB
+06/04/2025,2.2194922194922198,12210,271,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+13/04/2025,4.033448106246926,12198,492,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+20/04/2025,5.3728160118119925,12191,655,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+27/04/2025,7.209130470481977,12179,878,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+04/05/2025,9.554715741,12172,1163,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+11/05/2025,13.040618319355367,12162,1586,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+18/05/2025,16.908013822609842,12154,2055,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+25/05/2025,19.525652639380713,12143,2371,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+01/06/2025,22.362347510715463,12132,2713,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+08/06/2025,24.422632794457275,12124,2961,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+15/06/2025,27.92406108130417,12115,3383,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+22/06/2025,31.254130865829477,12104,3783,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+29/06/2025,33.29474989665151,12095,4027,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+06/07/2025,33.31954327320867,12086,4027,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+13/07/2025,33.32504970178927,12072,4023,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+20/07/2025,33.344384583506006,12065,4023,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+27/07/2025,33.36097521,12059,4023,Individuals aged 6 months and over who are immunosuppressed,Hywel Dda UHB
+06/04/2025,4.9706105863924686,64479,3205,All identified as potentially eligible,Hywel Dda UHB
+13/04/2025,10.183991926092695,64405,6559,All identified as potentially eligible,Hywel Dda UHB
+20/04/2025,13.318414222885295,64347,8570,All identified as potentially eligible,Hywel Dda UHB
+27/04/2025,16.302335350769372,64273,10478,All identified as potentially eligible,Hywel Dda UHB
+04/05/2025,19.496923915582897,64205,12518,All identified as potentially eligible,Hywel Dda UHB
+11/05/2025,22.15622076707203,64140,14211,All identified as potentially eligible,Hywel Dda UHB
+18/05/2025,26.096049694869755,64071,16720,All identified as potentially eligible,Hywel Dda UHB
+25/05/2025,28.4671875,64000,18219,All identified as potentially eligible,Hywel Dda UHB
+01/06/2025,31.725971689997657,63935,20284,All identified as potentially eligible,Hywel Dda UHB
+08/06/2025,33.65855950386043,63853,21492,All identified as potentially eligible,Hywel Dda UHB
+15/06/2025,35.598959149763296,63794,22710,All identified as potentially eligible,Hywel Dda UHB
+22/06/2025,37.14527875439478,63712,23666,All identified as potentially eligible,Hywel Dda UHB
+29/06/2025,37.88535872537004,63642,24111,All identified as potentially eligible,Hywel Dda UHB
+06/07/2025,37.98619084317642,63581,24152,All identified as potentially eligible,Hywel Dda UHB
+13/07/2025,37.98891478238962,63508,24126,All identified as potentially eligible,Hywel Dda UHB
+20/07/2025,37.99234006335997,63447,24105,All identified as potentially eligible,Hywel Dda UHB
+27/07/2025,37.99690812720848,63392,24087,All identified as potentially eligible,Hywel Dda UHB
+06/04/2025,22.723253757736515,1131,257,Residents in a care home for older adults,Powys Teaching HB
+13/04/2025,51.288888888888884,1125,577,Residents in a care home for older adults,Powys Teaching HB
+20/04/2025,51.20428189,1121,574,Residents in a care home for older adults,Powys Teaching HB
+27/04/2025,53.178155774395705,1117,594,Residents in a care home for older adults,Powys Teaching HB
+04/05/2025,55.67567567567567,1110,618,Residents in a care home for older adults,Powys Teaching HB
+11/05/2025,57.82805429864254,1105,639,Residents in a care home for older adults,Powys Teaching HB
+18/05/2025,58.89292196,1102,649,Residents in a care home for older adults,Powys Teaching HB
+25/05/2025,58.90410959,1095,645,Residents in a care home for older adults,Powys Teaching HB
+01/06/2025,58.93675527039414,1091,643,Residents in a care home for older adults,Powys Teaching HB
+08/06/2025,59.07834101382489,1085,641,Residents in a care home for older adults,Powys Teaching HB
+15/06/2025,60.40703052728955,1081,653,Residents in a care home for older adults,Powys Teaching HB
+22/06/2025,62.290502793296085,1074,669,Residents in a care home for older adults,Powys Teaching HB
+29/06/2025,65.91760299625467,1068,704,Residents in a care home for older adults,Powys Teaching HB
+06/07/2025,65.81920903954803,1062,699,Residents in a care home for older adults,Powys Teaching HB
+13/07/2025,66.0968661,1053,696,Residents in a care home for older adults,Powys Teaching HB
+20/07/2025,66.31679389312977,1048,695,Residents in a care home for older adults,Powys Teaching HB
+27/07/2025,66.34707574,1043,692,Residents in a care home for older adults,Powys Teaching HB
+06/04/2025,1.3338930087216083,21441,286,Adults aged 75 years and over,Powys Teaching HB
+13/04/2025,3.0209646542466264,21417,647,Adults aged 75 years and over,Powys Teaching HB
+20/04/2025,6.811275770183722,21391,1457,Adults aged 75 years and over,Powys Teaching HB
+27/04/2025,9.955555555555556,21375,2128,Adults aged 75 years and over,Powys Teaching HB
+04/05/2025,17.120367333551982,21343,3654,Adults aged 75 years and over,Powys Teaching HB
+11/05/2025,22.626025791324736,21325,4825,Adults aged 75 years and over,Powys Teaching HB
+18/05/2025,30.359658183867026,21298,6466,Adults aged 75 years and over,Powys Teaching HB
+25/05/2025,37.70977295162882,21273,8022,Adults aged 75 years and over,Powys Teaching HB
+01/06/2025,43.166313808515646,21255,9175,Adults aged 75 years and over,Powys Teaching HB
+08/06/2025,48.37980406932931,21232,10272,Adults aged 75 years and over,Powys Teaching HB
+15/06/2025,52.293837521806786,21209,11091,Adults aged 75 years and over,Powys Teaching HB
+22/06/2025,54.68536090261058,21183,11584,Adults aged 75 years and over,Powys Teaching HB
+29/06/2025,56.206000472478145,21165,11896,Adults aged 75 years and over,Powys Teaching HB
+06/07/2025,56.63750295578151,21145,11976,Adults aged 75 years and over,Powys Teaching HB
+13/07/2025,56.66729803958708,21118,11967,Adults aged 75 years and over,Powys Teaching HB
+20/07/2025,56.78672985781991,21100,11982,Adults aged 75 years and over,Powys Teaching HB
+27/07/2025,56.81290016599478,21085,11979,Adults aged 75 years and over,Powys Teaching HB
+06/04/2025,0.5448241703813769,4038,22,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+13/04/2025,1.2143742255266419,4035,49,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+20/04/2025,23.622828784119108,4030,952,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+27/04/2025,34.72325639116406,4029,1399,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+04/05/2025,38.152011922503725,4026,1536,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+11/05/2025,40.81074359612037,4021,1641,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+18/05/2025,41.54420921544209,4015,1668,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+25/05/2025,43.13481186145028,4013,1731,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+01/06/2025,43.58015457491897,4011,1748,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+08/06/2025,44.81037924151697,4008,1796,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+15/06/2025,46.088477880529865,4001,1844,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+22/06/2025,47.625,4000,1905,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+29/06/2025,48.71217804451113,3999,1948,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+06/07/2025,49.036295369211516,3995,1959,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+13/07/2025,49.04809619238477,3992,1958,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+20/07/2025,49.08544224505136,3991,1959,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+27/07/2025,49.19759278,3988,1962,Individuals aged 6 months and over who are immunosuppressed,Powys Teaching HB
+06/04/2025,1.2222222222222223,24300,297,All identified as potentially eligible,Powys Teaching HB
+13/04/2025,2.9250607671074857,24273,710,All identified as potentially eligible,Powys Teaching HB
+20/04/2025,8.183468074575153,24244,1984,All identified as potentially eligible,Powys Teaching HB
+27/04/2025,12.25904982044826,24227,2970,All identified as potentially eligible,Powys Teaching HB
+04/05/2025,18.950196321554042,24195,4585,All identified as potentially eligible,Powys Teaching HB
+11/05/2025,24.066184074457084,24175,5818,All identified as potentially eligible,Powys Teaching HB
+18/05/2025,30.960072895957584,24144,7475,All identified as potentially eligible,Powys Teaching HB
+25/05/2025,37.600033171621675,24117,9068,All identified as potentially eligible,Powys Teaching HB
+01/06/2025,42.43744553715922,24099,10227,All identified as potentially eligible,Powys Teaching HB
+08/06/2025,47.15680166147456,24075,11353,All identified as potentially eligible,Powys Teaching HB
+15/06/2025,50.760914760914766,24050,12208,All identified as potentially eligible,Powys Teaching HB
+22/06/2025,53.05944055944056,24024,12747,All identified as potentially eligible,Powys Teaching HB
+29/06/2025,54.53636590852287,24006,13092,All identified as potentially eligible,Powys Teaching HB
+06/07/2025,54.95330220146764,23984,13180,All identified as potentially eligible,Powys Teaching HB
+13/07/2025,54.98037905986474,23954,13170,All identified as potentially eligible,Powys Teaching HB
+20/07/2025,55.086693127219554,23935,13185,All identified as potentially eligible,Powys Teaching HB
+27/07/2025,55.12772273,23919,13186,All identified as potentially eligible,Powys Teaching HB
+06/04/2025,12.514529252227819,2581,323,Residents in a care home for older adults,Swansea Bay UHB
+13/04/2025,31.074766355140188,2568,798,Residents in a care home for older adults,Swansea Bay UHB
+20/04/2025,46.43696162881754,2554,1186,Residents in a care home for older adults,Swansea Bay UHB
+27/04/2025,51.47347740667977,2545,1310,Residents in a care home for older adults,Swansea Bay UHB
+04/05/2025,55.53351844506148,2521,1400,Residents in a care home for older adults,Swansea Bay UHB
+11/05/2025,58.02469136,2511,1457,Residents in a care home for older adults,Swansea Bay UHB
+18/05/2025,61.73530587764894,2501,1544,Residents in a care home for older adults,Swansea Bay UHB
+25/05/2025,63.18968989126057,2483,1569,Residents in a care home for older adults,Swansea Bay UHB
+01/06/2025,63.54082458,2474,1572,Residents in a care home for older adults,Swansea Bay UHB
+08/06/2025,64.17546709991878,2462,1580,Residents in a care home for older adults,Swansea Bay UHB
+15/06/2025,64.50163398692811,2448,1579,Residents in a care home for older adults,Swansea Bay UHB
+22/06/2025,64.57307060755336,2436,1573,Residents in a care home for older adults,Swansea Bay UHB
+29/06/2025,64.50948062654575,2426,1565,Residents in a care home for older adults,Swansea Bay UHB
+06/07/2025,64.46280991735537,2420,1560,Residents in a care home for older adults,Swansea Bay UHB
+13/07/2025,64.38071487946799,2406,1549,Residents in a care home for older adults,Swansea Bay UHB
+20/07/2025,64.39615545340577,2393,1541,Residents in a care home for older adults,Swansea Bay UHB
+27/07/2025,64.36348408710218,2388,1537,Residents in a care home for older adults,Swansea Bay UHB
+06/04/2025,10.448586146669319,45231,4726,Adults aged 75 years and over,Swansea Bay UHB
+13/04/2025,24.84396441060599,45182,11225,Adults aged 75 years and over,Swansea Bay UHB
+20/04/2025,30.639193530519552,45135,13829,Adults aged 75 years and over,Swansea Bay UHB
+27/04/2025,36.80450794214216,45076,16590,Adults aged 75 years and over,Swansea Bay UHB
+04/05/2025,43.617257620190166,45012,19633,Adults aged 75 years and over,Swansea Bay UHB
+11/05/2025,46.443263436436816,44971,20886,Adults aged 75 years and over,Swansea Bay UHB
+18/05/2025,50.615470228158046,44925,22739,Adults aged 75 years and over,Swansea Bay UHB
+25/05/2025,52.43804599750401,44872,23530,Adults aged 75 years and over,Swansea Bay UHB
+01/06/2025,53.709364332091305,44819,24072,Adults aged 75 years and over,Swansea Bay UHB
+08/06/2025,54.54443923250464,44769,24419,Adults aged 75 years and over,Swansea Bay UHB
+15/06/2025,55.11897307451471,44716,24647,Adults aged 75 years and over,Swansea Bay UHB
+22/06/2025,55.22327923894795,44675,24671,Adults aged 75 years and over,Swansea Bay UHB
+29/06/2025,55.29063774481244,44626,24674,Adults aged 75 years and over,Swansea Bay UHB
+06/07/2025,55.31203732782986,44578,24657,Adults aged 75 years and over,Swansea Bay UHB
+13/07/2025,55.34695710756793,44530,24646,Adults aged 75 years and over,Swansea Bay UHB
+20/07/2025,55.361197922521754,44477,24623,Adults aged 75 years and over,Swansea Bay UHB
+27/07/2025,55.381256751890525,44432,24607,Adults aged 75 years and over,Swansea Bay UHB
+06/04/2025,4.503794224894057,10147,457,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+13/04/2025,11.773986786312987,10141,1194,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+20/04/2025,15.954612728169709,10135,1617,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+27/04/2025,21.00266983091071,10113,2124,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+04/05/2025,25.400910710750345,10102,2566,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+11/05/2025,27.382603526847632,10094,2764,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+18/05/2025,30.06840487756518,10087,3033,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+25/05/2025,31.910669975186106,10075,3215,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+01/06/2025,32.79388403494837,10072,3303,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+08/06/2025,33.66454689984102,10064,3388,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+15/06/2025,34.41758679001293,10053,3460,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+22/06/2025,34.557213930348254,10050,3473,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+29/06/2025,34.607726005575465,10044,3476,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+06/07/2025,34.63837417812313,10038,3477,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+13/07/2025,34.66600199401795,10030,3477,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+20/07/2025,34.70059880239521,10020,3477,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+27/07/2025,34.69183897712516,10011,3473,Individuals aged 6 months and over who are immunosuppressed,Swansea Bay UHB
+06/04/2025,9.220541296012993,52947,4882,All identified as potentially eligible,Swansea Bay UHB
+13/04/2025,22.343643651213792,52892,11818,All identified as potentially eligible,Swansea Bay UHB
+20/04/2025,27.942846328538984,52840,14765,All identified as potentially eligible,Swansea Bay UHB
+27/04/2025,33.91320826227023,52770,17896,All identified as potentially eligible,Swansea Bay UHB
+04/05/2025,40.26452114840889,52699,21219,All identified as potentially eligible,Swansea Bay UHB
+11/05/2025,42.92063130305965,52653,22599,All identified as potentially eligible,Swansea Bay UHB
+18/05/2025,46.821413634462566,52602,24629,All identified as potentially eligible,Swansea Bay UHB
+25/05/2025,48.633474173042515,52542,25553,All identified as potentially eligible,Swansea Bay UHB
+01/06/2025,49.80948026215516,52488,26144,All identified as potentially eligible,Swansea Bay UHB
+08/06/2025,50.64271274363963,52434,26554,All identified as potentially eligible,Swansea Bay UHB
+15/06/2025,51.243819087802365,52379,26841,All identified as potentially eligible,Swansea Bay UHB
+22/06/2025,51.35377854208465,52335,26876,All identified as potentially eligible,Swansea Bay UHB
+29/06/2025,51.41922650242914,52282,26883,All identified as potentially eligible,Swansea Bay UHB
+06/07/2025,51.43973043345076,52232,26868,All identified as potentially eligible,Swansea Bay UHB
+13/07/2025,51.47084187731167,52181,26858,All identified as potentially eligible,Swansea Bay UHB
+20/07/2025,51.48497755,52122,26835,All identified as potentially eligible,Swansea Bay UHB
+27/07/2025,51.49879980796928,52075,26818,All identified as potentially eligible,Swansea Bay UHB
