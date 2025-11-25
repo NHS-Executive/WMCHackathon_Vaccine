@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wales SPC Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+<header class="nhs-header">
+    <div class="nhs-header-inner">
+        <div class="nhs-logo-box">NHS</div>
+        <div class="nhs-header-text">
+            <h1>Vaccination SPC Monitoring</h1>
+            <p>Prototype dashboard for in-campaign monitoring of uptake across Wales</p>
+        </div>
+    </div>
+</header>
+
+<main class="page">
+    <section class="page-intro fade-in">
+        <h2>Overview</h2>
+        <p>
+            Upload a campaign file to compare expected vs actual weekly vaccination
+            rates (as percentages), review run-rule signals, and spot regions or groups that are behaving
+            very differently from the Wales-wide pattern.
+        </p>
+    </section>
+
+    <!-- 1. Upload + Filters -->
+    <section class="card fade-in" style="animation-delay: 0.05s;">
+        <div class="card-header">
+            <h2>1. Upload data & apply filters</h2>
+            <p>Use any campaign data with Region, group, cohort (Campaign Name), week_end (Week), vacc_alive (Vaccinated) and denom (Alive Population).</p>
+        </div>
+
+        <div class="card-body upload-grid">
+            <div class="upload-block">
+                <label class="field-label" for="fileInput">Campaign CSV</label>
+                <input type="file" id="fileInput" accept=".csv">
+                <button class="btn-primary" onclick="uploadCSV()">Run SPC</button>
+            </div>
+
+            <div class="filters-block">
+                <div class="filters-row">
+                    <div class="field">
+                        <label class="field-label" for="regionFilter">Region</label>
+                        <select id="regionFilter">
+                            <option value="ALL">All Wales</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label class="field-label" for="groupFilter">Group</label>
+                        <select id="groupFilter">
+                            <option value="ALL">All groups</option>
+                        </select>
+                    </div>
+                </div>
+                <button class="btn-secondary" onclick="applyFilters()">Apply filter</button>
+                <p class="helper-text">
+                    Filters change the main SPC chart and tables. The deviations table always shows
+                    all regions and groups.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 2. SPC chart -->
+    <section class="card fade-in" style="animation-delay: 0.1s;">
+        <div class="card-header">
+            <h2>2. SPC chart</h2>
+            <p>
+                Expected vs actual weekly vaccination rate (%), with 1σ and 2σ bands
+                and 3σ control limits. (<strong>Formula</strong> : People vaccinated this week / Total unvaccinated people this week)
+            </p>
+        </div>
+
+        <div class="card-body">
+            <div class="chart-wrapper">
+                <canvas id="walesChart" height="420" width="1000"></canvas>
+            </div>
+
+            <div class="legend-row">
+                <div class="legend-items">
+                    <span class="legend-dot legend-expected"></span> Expected
+                    <span class="legend-dot legend-actual"></span> Actual
+                    <span class="legend-box legend-1sigma"></span> 1σ band
+                    <span class="legend-box legend-2sigma"></span> 2σ band
+                    <span class="legend-line legend-ucl"></span> UCL/LCL (±3σ)
+                </div>
+
+                <!-- Help for SPC anatomy -->
+                <details class="help-details">
+                    <summary>What do these lines mean?</summary>
+                    <ul>
+                        <li><strong>Expected</strong>: Wales-wide baseline weekly vaccination rate for this week of the campaign.</li>
+                        <li><strong>Actual</strong>: Weekly rate for the current campaign (or filtered region/group).</li>
+                        <li><strong>1σ & 2σ bands</strong>: Ranges that capture normal week-to-week variation around the expected line.</li>
+                        <li><strong>UCL/LCL (±3σ)</strong>: Control limits; points outside are very unlikely if the process is stable and usually indicate a special cause.</li>
+                        <li><strong>Weekly rate (%)</strong>: New vaccinations this week divided by remaining unvaccinated people at the start of the week.</li>
+                    </ul>
+                </details>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. Latest trends (run rules) -->
+<!--    <section class="card fade-in" style="animation-delay: 0.15s;">-->
+<!--        <div class="card-header">-->
+<!--            <h2>3. Latest trends</h2>-->
+<!--            <p>-->
+<!--                Latest available week (per region &amp; group) vs last week and roughly a month ago, shown as percentage changes.-->
+<!--            </p>-->
+<!--        </div>-->
+<!--        <div class="card-body">-->
+<!--            <details class="help-details small">-->
+<!--                <summary>How are run rules used here?</summary>-->
+<!--                <ul>-->
+<!--                    <li><strong>Run rule alert</strong> is triggered when:-->
+<!--                        <ul>-->
+<!--                            <li>8 points in a row are below expectation, or</li>-->
+<!--                            <li>2 out of 3 weeks are more than 2σ below expected, or</li>-->
+<!--                            <li>6 consecutive weeks trend up or down.</li>-->
+<!--                        </ul>-->
+<!--                    </li>-->
+<!--                    <li>The table focuses on the most recent week with valid data for each region/group.</li>-->
+<!--                </ul>-->
+<!--            </details>-->
+
+<!--            <table id="trendTable" class="data-table">-->
+<!--                <thead></thead>-->
+<!--                <tbody></tbody>-->
+<!--            </table>-->
+<!--        </div>-->
+<!--    </section>-->
+
+    <!-- 4. Dashboard summary -->
+    <section class="card fade-in" style="animation-delay: 0.2s;">
+        <div class="card-header">
+            <h2>3. Dashboard summary</h2>
+            <p>Counts of weeks in green, amber and red, ordered by where problems appear most often.</p>
+        </div>
+        <div class="card-body">
+            <table id="dashboardTable" class="data-table">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- 5. Deviation table -->
+    <section class="card fade-in" style="animation-delay: 0.25s;">
+        <div class="card-header">
+            <h2>4. Major deviations from expected</h2>
+            <p>
+                All weeks where regions/groups are much lower or higher than we’d expect, based on the Wales-wide baseline.
+            </p>
+        </div>
+        <div class="card-body">
+            <table id="deviationTable" class="data-table">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </section>
+</main>
+
+<footer class="page-footer">
+    <p>Built with ❤️</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
